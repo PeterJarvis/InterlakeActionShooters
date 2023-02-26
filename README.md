@@ -1,5 +1,5 @@
 # InterlakeActionShooters
-Repository of Stages for competition firearms sports collated by Marcel Englmaier
+Repository of Stages for competition firearms sports collated by Interlake Action Shooters,.
 
 ## Terms of use:
 You may use any stage or design from this repository in any form and alter it however you wish as long as you satisfy the below:
